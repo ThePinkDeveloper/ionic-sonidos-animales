@@ -29,7 +29,8 @@
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26",
-    "glob-parent": ">=5.1.2"
+    "glob-parent": ">=5.1.2",
+    "ws": ">=5.2.3"
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.0",
